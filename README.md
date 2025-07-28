@@ -1,4 +1,6 @@
 📄 Adobe India Hackathon 2025 – Challenge 1A
+
+
 🧠 PDF Outline Extraction Engine
 Welcome to our submission for Round 1A of the Adobe "Connecting the Dots" Hackathon 2025. This solution focuses on making raw PDFs machine-readable by extracting their logical outline structure—Title, and hierarchical headings (H1, H2, H3), with page numbers.
 
