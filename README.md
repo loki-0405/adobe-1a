@@ -2,6 +2,8 @@
 
 
 🧠 PDF Outline Extraction Engine
+
+
 Welcome to our submission for Round 1A of the Adobe "Connecting the Dots" Hackathon 2025. This solution focuses on making raw PDFs machine-readable by extracting their logical outline structure—Title, and hierarchical headings (H1, H2, H3), with page numbers.
 
 ✅ Objective
@@ -20,11 +22,17 @@ Outputs structured data in valid JSON format
 🗂 Folder Structure
 
 Adobe-Challenge-main/
+
 ├── Dockerfile              # Docker configuration file
+
 ├── .dockerignore           # Files to ignore in Docker context
+
 ├── requirements.txt        # Python dependencies
+
 ├── app.py                 # Script for Challenge 1A (automatic PDF processing)
+
 ├── venv/                   # Local virtual environment (ignored)
+
 ⚙️ Expected Execution (Automatic Mode via Docker)
 
 
